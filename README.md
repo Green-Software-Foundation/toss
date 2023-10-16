@@ -41,6 +41,7 @@ What effect do the emissions of carbon dioxide have on regulatory disclosures?
 How long will it take to implement granular reporting?
 As carbon emissions from software do not fall solely under the responsibility of technology departments or functions, the initiative aims to integrate the methodologies and tools across the entire organisation.
 
-## Solution: The solution would be a framework incorporating a decision tree strategy. It would also reveal where voids exist, providing ideas for future initiatives.
+## Solution: 
+The solution would be a framework incorporating a decision tree strategy. It would also reveal where voids exist, providing ideas for future initiatives.
 
 Closure: For the project to be successful, GSF organisations must test the framework throughout its development and numerous iterations. The SCI is an excellent example of a system whose implementation within organisations resulted in a continuous feedback cycle.
