@@ -1,6 +1,7 @@
 # software-emission-benchmark
 
-## Working title: Using software emission calculation data for organisational decision making during the development and use of technology applications.
+## Working title: 
+Using software emission calculation data for organisational decision making during the development and use of technology applications.
 
 ## Related issues: 
 This project proposition is a continuation of @tmcclell's "answering the so-what query" discussion.
