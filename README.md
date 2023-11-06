@@ -1,4 +1,4 @@
-# software-emission-benchmark
+# Organisation usage of Software Emissions
 
 ## Working title: 
 Using software emission calculation data for organisational decision making during the development and use of technology applications.
