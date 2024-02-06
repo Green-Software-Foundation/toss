@@ -6,11 +6,15 @@
 
 ### Back Ground
 The Green Software Foundation has been building the methods, tools, standards, and patterns to help both developers and operational engineers embed green software practices. To first use these tools and embed them in organisations, we require a framework that provides changemakers in organisations with an approach to adopting, using, and reducing carbon emissions from running software applications. 
+
 Implementing measures to reduce software emissions can result in an enhanced and robust technology platform. Reduced emissions can also result in immediate cost reductions for businesses, as they will need to acquire fewer offsets in order to attain carbon neutrality. A cost-benefit analysis can provide guidance on the necessity of adding an incremental feature if its implementation will generate X quantity of CO2e that requires offsetting. The framework will consider the implementation of green software approaches from both top down (organisation strategy) and bottom up (DevOps community). 
+
 The initiative also draws from a doctoral study that looks at how change management specialists might develop technology projects that include energy-saving and carbon-emission-reducing tactics. Details about the doctoral study's interaction with GSF and its governance structure are provided in the terms of reference.
+
 There is also a project in progress that focuses on the maturity matrix model (Coummunity WG) for organisations to assess where they are on their green software journey. The following opportunities will be explored across both projects:
-Identify gaps in organisations - this project involves implementing various tools and practices within an organisation, and the maturity matrix model assesses the current state of the organisation. 
-The maturity matrix model provides the inputs into this framework. The assessment is to understand the organisation's current capabilities, determine intermediary steps and target states, and develop a roadmap towards improved sustainable IT practices and outcomes.
+- Identify gaps in organisations - this project involves implementing various tools and practices within an organisation, and the maturity matrix model assesses the current state of the organisation. 
+- The maturity matrix model provides the inputs into this framework. The assessment is to understand the organisation's current capabilities, determine intermediary steps and target states, and develop a roadmap towards improved sustainable IT practices and outcomes.
+
 In simple terms, the maturity matrix model provides the assessment, and this project provides the adoption of green software practices. 
 
 ### Objective
