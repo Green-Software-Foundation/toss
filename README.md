@@ -1,7 +1,10 @@
  - **Associated documents**
    - [Collaboration Doc](https://docs.google.com/document/d/15BhJo2LPzA49eqQGzXCpksm6ftsUWUBevmXwwyKyzOI/edit#heading=h.1kbk2mwkzsqj) 
    - [Project dependancy - Maturity Matrix ](https://github.com/Green-Software-Foundation/green-software-maturity-matrix)
-   - [Answering the so-what question](https://github.com/Green-Software-Foundation/oc/discussions/18) 
+   - [Answering the so-what question](https://github.com/Green-Software-Foundation/oc/discussions/18)
+   - [Analysis across the GSF Pillars .xlsx](https://github.com/Green-Software-Foundation/ouse/files/14040075/Analysis.across.the.GSF.Pillars.xlsx)
+   - [Assumptions Document.docx](https://github.com/Green-Software-Foundation/ouse/files/14040068/Assumptions.Document.docx)
+   - Terms of Reference.docx
 
 ## Organisation usage of Software Emissions
 
