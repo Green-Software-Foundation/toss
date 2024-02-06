@@ -1,6 +1,7 @@
  - **Associated documents**
    - [Collaboration Doc](https://docs.google.com/document/d/15BhJo2LPzA49eqQGzXCpksm6ftsUWUBevmXwwyKyzOI/edit#heading=h.1kbk2mwkzsqj) 
-   - [Project dependancy - Maturity Matrix ](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) 
+   - [Project dependancy - Maturity Matrix ](https://github.com/Green-Software-Foundation/green-software-maturity-matrix)
+   - [Answering the so-what question](https://github.com/Green-Software-Foundation/oc/discussions/18) 
 
 ## Organisation usage of Software Emissions
 
