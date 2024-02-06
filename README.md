@@ -1,45 +1,44 @@
-# software-emission-benchmark
+ - **Associated documents**
+   - [Collaboration Doc](https://docs.google.com/document/d/15BhJo2LPzA49eqQGzXCpksm6ftsUWUBevmXwwyKyzOI/edit#heading=h.1kbk2mwkzsqj) 
+   - [Project dependancy - Maturity Matrix ](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) 
 
-## Working title: Using software emission calculation data for organisational decision making during the development and use of technology applications.
+## Organisation usage of Software Emissions
 
-## Related issues: 
-This project proposition is a continuation of @tmcclell's "answering the so-what query" discussion.
-Green-Software-Foundation/oc#18
+### Back Ground
+The Green Software Foundation has been building the methods, tools, standards, and patterns to help both developers and operational engineers embed green software practices. To first use these tools and embed them in organisations, we require a framework that provides changemakers in organisations with an approach to adopting, using, and reducing carbon emissions from running software applications. 
+Implementing measures to reduce software emissions can result in an enhanced and robust technology platform. Reduced emissions can also result in immediate cost reductions for businesses, as they will need to acquire fewer offsets in order to attain carbon neutrality. A cost-benefit analysis can provide guidance on the necessity of adding an incremental feature if its implementation will generate X quantity of CO2e that requires offsetting. The framework will consider the implementation of green software approaches from both top down (organisation strategy) and bottom up (DevOps community). 
+The initiative also draws from a doctoral study that looks at how change management specialists might develop technology projects that include energy-saving and carbon-emission-reducing tactics. Details about the doctoral study's interaction with GSF and its governance structure are provided in the terms of reference.
+There is also a project in progress that focuses on the maturity matrix model (Coummunity WG) for organisations to assess where they are on their green software journey. The following opportunities will be explored across both projects:
+Identify gaps in organisations - this project involves implementing various tools and practices within an organisation, and the maturity matrix model assesses the current state of the organisation. 
+The maturity matrix model provides the inputs into this framework. The assessment is to understand the organisation's current capabilities, determine intermediary steps and target states, and develop a roadmap towards improved sustainable IT practices and outcomes.
+In simple terms, the maturity matrix model provides the assessment, and this project provides the adoption of green software practices. 
 
-Tagline: "The adoption and usage of software emission data"
+### Objective
+The project team will develop a framework that encapsulates an underlying methodology and decision tree for organisations to 1) embed 2) transform and 3) use software emissions data to help achieve their net zero targets. 
 
-## Abstract: 
-The creation of the SCI facilitates the calculation of software carbon emissions. In addition, there is an initiative that focuses on cloud calculations in real-time. Over time, additional calculation methodologies and tools may be developed, but the actual implementation necessitates organisational changes that must be addressed. This project will result in the creation of a framework for decision-making during the development and implementation of technology applications by incorporating all available methodologies and instruments.
+The framework and methodology will utilise the tools, standards, patterns, and principles developed by the Green Software Foundation as well as those that are available from external sources.  
 
-The initiative will concentrate on the broader organisation's adoption of calculations and the measures organisations must take to ensure that measuring CO2 is an integral part of application development.
-I propose that we use the TCFD framework as a basis for integrating organisational areas that facilitate the flow of CO2 data into strategic and executive-level decisions.
+### Problem Statement
+The development of tools, calculation methodologies, and processes is underway to help the IT community become green. Organisations are on a journey, and their implementation of green IT and software varies. There are still gaps for organisations to embed the culture and behaviour to make decisions that foster green IT choices. The linking of key data across different functions that impact IT will help create visibility into the environmental impact of technology.
 
-The outputs from working groups and sub-working groups creating methodologies and tools will be used to develop a framework for organisations to use and employ in order to make actual distinctions. This will include the principles of shared data, the formulation of OKRs and KPIs, the modification of behaviours, and their incorporation into organisational change processes and practices.
+**Key Question:** How to embed green software calculations and tools for organisations to use software emissions data to reduce carbon?
 
-Quote: "Change before you have to." - Jack Welch
-
-## Audience: 
-This solution's intended audience consists of technology architects, devops lead engineers, programmers and project managers, product managers, business managers, and business executives. This audience receives limited and, in some instances, no data at all (this view is based on my PhD research). This topic can be discussed at numerous conferences, including technology, programme management, ESG, and supply chain conferences.
- 
-ToC: By the end of 2024, this initiative will enhance the adoption of various GSF tools and methodologies.
-
-## Governance: 
-The governance of this proposal spans a number of WGs, and I would like the Steering Committee to provide guidance.
-
-## Problems to resolve:
-
-Once the baseline for software's CO2 emissions has been established, how do organisations make informed decisions?
-How do organisations establish goals using software data on carbon dioxide emissions?
-What critical behavioural changes and external influences are required for the devops community to adopt green engineering practices?
-How can procurement teams use software emissions data to ensure that contracts with ITO and BPO vendors meet organisational objectives?
-What are the most important judgements and options during the development of a business case for software solutions?
-How do costs, business growth, and CO2 targets interact within a business?
-How can organisations establish meaningful OKRs and KPIs to reduce software-related CO2 emissions?
-What challenges do organisations face? Is there an opportunity for industry and tech innovators to assist in resolving these issues?
-What effect do the emissions of carbon dioxide have on regulatory disclosures?
-How long will it take to implement granular reporting?
 As carbon emissions from software do not fall solely under the responsibility of technology departments or functions, the initiative aims to integrate the methodologies and tools across the entire organisation.
 
-## Solution: The solution would be a framework incorporating a decision tree strategy. It would also reveal where voids exist, providing ideas for future initiatives.
+### Solution
+The solution is to present a framework incorporating a decision tree strategy. It would also reveal where voids exist, providing ideas for future initiatives.
 
-Closure: For the project to be successful, GSF organisations must test the framework throughout its development and numerous iterations. The SCI is an excellent example of a system whose implementation within organisations resulted in a continuous feedback cycle.
+Closure: For the project to be successful, GSF organisations must test the framework throughout its development and numerous iterations. The SCI is an excellent example of a project that was implemented within organisations and resulted in a continuous feedback cycle. For organisations to use the framework and create case studies to document their approach and processes. The gaps are to be identified and feedback collected and reviewed with the project team for continuous updates to the framework.
+
+The solution would describe a framework incorporating a method that is focused on a decision tree approach. It would also reveal where voids exist, providing ideas for future initiatives.
+
+**ToC:** By the end of 2024, this initiative will enhance the adoption of various GSF tools and methodologies.
+
+### Timelines
+- [ ] January 2024 – Agree on the project scope with GSF.
+- [ ] February 2024 – Define the key terms,  e.g., how we classify technology-based projects.
+- [ ] March to August 2024 – Development of the framework.
+- [ ] September to October – Solicit feedback and update changes.
+- [ ] October 2024 to January 2025 – Framework development process.
+
+
