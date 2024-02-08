@@ -6,7 +6,7 @@
    - [Assumptions Document.docx](https://github.com/Green-Software-Foundation/ouse/files/14040068/Assumptions.Document.docx)
    - Terms of Reference.docx
 
-## Organisation usage of Software Emissions
+## Transforming Organisational Software Sustainability (TOSS)
 
 ### Back Ground
 The Green Software Foundation has been building the methods, tools, standards, and patterns to help both developers and operational engineers embed green software practices. To first use these tools and embed them in organisations, we require a framework that provides changemakers in organisations with an approach to adopting, using, and reducing carbon emissions from running software applications. 
